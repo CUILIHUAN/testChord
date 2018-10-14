@@ -12,6 +12,7 @@ public class Main {
         String[] ssplit = s.split("\\s+");
         for (int i = 0; i < ssplit.length; i++) {
             System.out.println(ssplit[i]);
+            System.out.println("hello");
 
         }
     }
